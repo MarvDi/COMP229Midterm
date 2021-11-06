@@ -1,3 +1,9 @@
+/*
+File Name: books.js
+Author's Name: Zhengliang Ding
+Student Id: 301222388
+Web App Name: comp229midterm301222388
+*/
 // modules required for routing
 let express = require('express');
 let router = express.Router();

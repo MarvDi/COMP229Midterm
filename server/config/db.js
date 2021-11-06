@@ -1,3 +1,9 @@
+/*
+File Name: db.js
+Author's Name: Zhengliang Ding
+Student Id: 301222388
+Web App Name: comp229midterm301222388
+*/
 module.exports = {
   //local MongoDB deployment ->
   //"URI": "mongodb://localhost/books229"
